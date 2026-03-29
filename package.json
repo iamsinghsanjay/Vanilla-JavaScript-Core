@@ -1,0 +1,31 @@
+{
+  "name": "vanilla-javascript-core",
+  "version": "1.0.0",
+  "description": "A minimal, environment-agnostic guide to JavaScript fundamentals, emphasizing pure language concepts such as data types, scope, higher-order functions, and object-oriented patterns. Excluding DOM, Web APIs, and Node.js modules.",
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "javascript-fundamentals",
+    "vanilla-javascript",
+    "javascript-core",
+    "pure-javascript",
+    "no-dom",
+    "no-node"
+  ],
+  "homepage": "https://github.com/iamsinghsanjay/Vanilla-JavaScript-Core#readme",
+  "bugs": {
+    "url": "https://github.com/iamsinghsanjay/Vanilla-JavaScript-Core/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsinghsanjay/Vanilla-JavaScript-Core.git"
+  },
+  "license": "ISC",
+  "author": "Sanjay Singh",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  }
+}
